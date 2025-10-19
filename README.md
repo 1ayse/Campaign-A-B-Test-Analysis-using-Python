@@ -60,6 +60,7 @@ Pandas – Data manipulation
 NumPy – Statistical computation
 Matplotlib / Seaborn – Data visualization
 Scipy / Statsmodels – Hypothesis testing
+
 📈 Example Visuals
 Conversion rates by campaign
 Income distribution among responders
@@ -68,9 +69,9 @@ Statistical test results visualization
 
 🧩 Key Takeaways
 
-Campaign B showed a statistically significant higher conversion rate.
-Income and age had moderate influence on campaign success.
-Future campaigns can focus on high-income, mid-age customer segments.
+Experiment showed a statistically significant higher conversion rate.
+English and Spanish speaker responded better on the personalized emails.
+Younger customer responded better on the personalized emails.
 
 🚀 Next Steps
 
